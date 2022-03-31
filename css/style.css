@@ -1,0 +1,143 @@
+
+body {
+  font-size: 20px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+body {
+  color: rgb(10, 10, 10);     
+	background-color: #0077b6; 
+}
+
+div {
+  margin: 0 auto;
+  border-radius: 10%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #dadada;
+  font-family: Quicksand, sans-serif;
+}
+
+#Titre {
+  margin: 5% auto;
+  width: 100%;
+  max-width: 920px;
+  box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.03);
+}
+
+#header {
+  height: 200px;
+  margin: 0;
+  background: white;
+  background-image: url(https://static.lexpress.fr/medias_12111/w_968,h_545,c_fill,g_north/v1563876011/vue-aerienne-de-paris-et-de-la-tour-eiffel-le-14-juillet-2019_6201128.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#header h1 {
+  display: table;
+  color: #0d47a1;
+  font-weight: 400;
+  text-align: center;
+  margin: auto;
+  padding: 50px 50px 0 50px;
+  font-size: 55px;
+  font-family: baskerville italic
+}
+
+#menu {
+  position: relative;
+  height: 60px;
+  margin: 0;
+  background: #ff0000;
+  text-align: center;
+}
+
+#menu:after {
+  position: absolute;
+  content: '\f015';
+  display: inline-block;
+  font-family: FontAwesome;
+  left: 0;
+  top: 0;
+  height: 60px;
+  line-height: 60px;
+  width: 80px;
+  margin: 0;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+#content {
+  position: relative;
+  width: 100%;
+  height: 1260px;
+  margin: 0;
+  background: #fff;
+  padding: 20px 0;
+}
+
+#main {
+  position: relative;
+  float: left;
+  width: 70%;
+  background: #fff;
+}
+
+#box {
+  position: relative;
+  width: 93.5%;
+  display: block;
+  background: #f6f6f6;
+  margin: 0 20px 20px 20px;
+  font-family: Baskerville bold;
+  object-fit: 
+}
+
+#sidecontent {
+  width: 255px;
+  height: 200px;
+  margin: 0 20px 20px auto;
+  background: #003f88;
+  position: relative;
+  text-align: center
+}
+#sidecontent1 {
+  width: 255px;
+  height: 200px;
+  margin: 0 20px 20px auto;
+  background: white;
+  position: relative;
+  text-align: center
+}
+
+.ticker-wrap {
+  display: block;
+  text-align: center;
+  margin: 0 20px 20px 20px;
+  padding: 2px;
+  background: blue;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 430px solid #011627
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

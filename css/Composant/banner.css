@@ -1,0 +1,28 @@
+.banner{
+	display: flex;
+	width: 2000px;
+	height: 200px;
+	background-color: white;
+	text-decoration: none;
+	color: back;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+	border: 2px solid black
+}
+#main {
+  position: relative;
+  float: left;
+  width: 70%;
+  background: #fff;
+}
+.ticker-wrap {
+  display: block;
+  text-align: center;
+  margin: 0 20px 20px 20px;
+  padding: 2px;
+  background: blue;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 430px solid #011627
+}

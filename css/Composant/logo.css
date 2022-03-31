@@ -1,0 +1,10 @@
+.logo {
+	height: 15px
+}
+#sidecontent {
+  width: 255px;
+  height: 200px;
+  margin: 0 20px 20px auto;
+  background: white;
+  position: relative;
+}

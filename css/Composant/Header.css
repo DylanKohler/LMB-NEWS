@@ -1,0 +1,16 @@
+#header {
+  height: 200px;
+  margin: 0;
+  background: white;
+}
+
+#header h1 {
+  display: table;
+  color: #0d47a1;
+  font-weight: 400;
+  text-align: center;
+  margin: auto;
+  padding: 50px 50px 0 50px;
+  font-size: 55px;
+  font-family: baskerville italic
+}
